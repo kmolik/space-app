@@ -1,5 +1,4 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
-
 import { PilotRoomComponent } from './pilot-room.component';
 
 describe('PilotRoomComponent', () => {

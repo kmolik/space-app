@@ -1,0 +1,22 @@
+{
+  "pilots": [
+    {
+      "id": 1,
+      "firstName": "Wedge",
+      "lastName": "Antiles",
+      "imageUrl": "/assets/wedge.png"
+    },
+    {
+      "id": 2,
+      "firstName": "Wes",
+      "lastName": "Janson",
+      "imageUrl": "/assets/rebel1.png"
+    },
+    {
+      "id": 3,
+      "firstName": "Dak",
+      "lastName": "Ralter",
+      "imageUrl": "/assets/rebel2.png"
+    }
+  ]
+}
