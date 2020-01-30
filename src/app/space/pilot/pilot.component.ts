@@ -15,5 +15,4 @@ pilots: Pilot[] = [];
 
   ngOnInit() {
   }
-
 }
